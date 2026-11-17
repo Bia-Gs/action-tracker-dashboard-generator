@@ -1,0 +1,16 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyc.bak
+*.spec.bak
+.venv/
+venv/
+env/
+.idea/
+*.iml
+*.log
+logs/
+.DS_Store
+Thumbs.db
+desktop.ini
